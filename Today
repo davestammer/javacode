@@ -1,0 +1,21 @@
+<DOCTYPE html>
+
+<html>
+
+  <head>
+    <title>javacode</title>
+  </head>
+  
+  <body>
+    
+    <h1>
+      Hello Universe
+    </h1>
+    
+    <p>
+      Is there anybody out there?
+    </p>
+    
+  </body>
+  
+</html>
